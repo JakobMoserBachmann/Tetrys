@@ -53,5 +53,13 @@
             }
             return true;
         }
+
+        private void ClearRow(int r)
+        {
+            for (int i = 0; i < length; i++)
+            {
+
+            }
+        }
     }
 }
